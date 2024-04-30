@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667622133401",
+    "project_id": "flutter-authentication-96f96",
+    "storage_bucket": "flutter-authentication-96f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667622133401:android:9f76b6a891e71510287208",
+        "android_client_info": {
+          "package_name": "com.example.modern_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4mG6Sf8cdKw8AGjaul--8h7zGVx2L3eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
