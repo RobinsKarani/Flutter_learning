@@ -10,6 +10,7 @@
 //   print(someValue?.length);
 // }
 void main() {
+<<<<<<< HEAD
   var (age, firstName, isAdult, lastName) = printName();
   print("$firstName $lastName, Age: $age, Is Adult: $isAdult");
 }
@@ -21,4 +22,12 @@ void main() {
   bool isAdult = age >= 18; // Check if age is greater than or equal to 18
 
   return (age, firstName, isAdult, lastName);
+=======
+  String name = PrintName();
+  print(name);
+}
+
+String PrintName() {
+  return 'Hello World';
+>>>>>>> 515198734d692ef494d59d01e8bba08a00b579da
 }
