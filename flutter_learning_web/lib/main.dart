@@ -1,11 +1,13 @@
-void add(int num1, int num2, [int num3 = 0]) {
-  int sum;
-  sum = num1 + num2 + num3;
-
-  print("The sum is $sum");
+void printInfo({String? name, String? gender}) {
+  print("Hello $name your gender is $gender.");
 }
 
 void main() {
-  add(10, 20); //num3 is zero
-  add(10, 20, 30); //num3 is reassigned to 30
+  // you can pass values in any order in named parameters.
+  printInfo(gender: "Male", name: ""); //can be null
+  printInfo(name: "Sita", gender: "Female");
+  printInfo(name: "Reecha", gender: "Female");
+  printInfo(name: "Reecha", gender: "Female");
+  printInfo(name: "Harry", gender: "Male");
+  printInfo(gender: "Male", name: "Santa");
 }
