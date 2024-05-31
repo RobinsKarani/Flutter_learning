@@ -10,8 +10,9 @@ I created this repository with the goal of consolidating my learning materials a
 
 In my quest to learn Flutter, I've utilized a combination of resources to gain insights, deepen my understanding, and hone my skills:
 
-- **Official Documentation:** The Flutter documentation has been an invaluable resource, offering comprehensive guides, API references, and tutorials to help me navigate the intricacies of Flutter development. It serves as my main source of learning Flutter.
-- **YouTube Tutorials:** I've watched tutorials from prominent Flutter developers and content creators on YouTube to learn about Flutter widgets, state management, navigation, and more.
+- Official Documentation
+- https://dart-tutorial.com/
+- https://flutter-tutorial.net/
 - **Helping Others:** Assisting other developers with their Flutter projects has been a valuable learning experience. By troubleshooting issues, answering questions, and providing guidance, I reinforce my understanding of Flutter concepts and gain practical experience.
 - **GitHub Repositories:** I've explored existing Flutter projects and code repositories on GitHub to study code samples, analyze project structures, and learn from real-world implementations.
 - **Mini Projects:** I mostly learn through creating mini projects, which allows me to apply theoretical concepts in a practical manner and reinforce my understanding of Flutter development principles.
