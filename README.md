@@ -10,7 +10,7 @@ I created this repository with the goal of consolidating my learning materials a
 
 In my quest to learn Flutter, I've utilized a combination of resources to gain insights, deepen my understanding, and hone my skills:
 
-- Official Documentation:
+- Official Documentation
 - https://flutter-tutorial.net/
 - https://flutter-tutorial.net/
 - **Helping Others:** Assisting other developers with their Flutter projects has been a valuable learning experience. By troubleshooting issues, answering questions, and providing guidance, I reinforce my understanding of Flutter concepts and gain practical experience.
