@@ -12,7 +12,7 @@ In my quest to learn Flutter, I've utilized a combination of resources to gain i
 - Official Documentation
 - https://dart-tutorial.com/
 - https://flutter-tutorial.net/
-- **Youtube tutorials** https://youtu.be/CzRQ9mnmh44?si=WFbPWTLFDVa-JJC-
+- **Youtube tutorials** : https://youtu.be/CzRQ9mnmh44?si=WFbPWTLFDVa-JJC-
 - **GitHub Repositories:** I've explored existing Flutter projects and code repositories on GitHub to study code samples, analyze project structures, and learn from real-world implementations.
 
 
