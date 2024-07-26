@@ -1,25 +1,23 @@
 import 'package:flutter/material.dart';
-import 'package:practice_app/widgets/home.dart';
-import 'package:practice_app/widgets/singlechildscrollview.dart';
+import 'package:practice_app/pages.dart/currency_coverter_material_page.dart';
 
 void main() {
   runApp(const MyApp());
 }
+//material
+/* Stateless Widget
+Stateful Widget
+Inherited Widget
+ */
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
-      ),
-      home: const SingleChildScroll(),
+      home: CurrencyConverterMaterialPage(),
     );
   }
 }
